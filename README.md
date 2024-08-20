@@ -1,4 +1,4 @@
-# AmadeusTechnicalTestJuanMoreno
+# Amadeus Technical Test Juan Moreno
 Amadeus Technical Test Juan Pablo Moreno
 
 ## Description
