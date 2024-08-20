@@ -56,11 +56,3 @@ This project includes unit and integration tests to ensure the API's correct fun
 3. Run the migrations to create the necessary tables in the database.
 4. Start the application using Visual Studio or from the terminal with `dotnet run`.
 5. The API will be available at `https://localhost:{port}/api/passengers`.
-
-## Contributions
-
-If you want to contribute to this project, feel free to open an issue or submit a pull request. Any contributions are welcome.
-
----
-
-This README provides a clear and comprehensive description of your project, including the necessary instructions for setting it up and running it.
