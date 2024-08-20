@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.passengersController",
+    "Method": "CreatePassanger",
+    "RelativePath": "api/passengers/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passenger",
+        "Type": "AmadeusTechnicalTestJuanMoreno.Models.passenger",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.passengersController",
+    "Method": "DeletePassenger",
+    "RelativePath": "api/passengers/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.passengersController",
+    "Method": "passengerList",
+    "RelativePath": "api/passengers/Read",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AmadeusTechnicalTestJuanMoreno.Models.passenger, AmadeusTechnicalTestJuanMoreno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.passengersController",
+    "Method": "PassengerDetails",
+    "RelativePath": "api/passengers/ReadDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.passengersController",
+    "Method": "UpdatePassenger",
+    "RelativePath": "api/passengers/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "passenger",
+        "Type": "AmadeusTechnicalTestJuanMoreno.Models.passenger",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmadeusTechnicalTestJuanMoreno.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AmadeusTechnicalTestJuanMoreno.WeatherForecast, AmadeusTechnicalTestJuanMoreno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

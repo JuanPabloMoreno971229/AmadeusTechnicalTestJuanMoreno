@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDEA90C-E794-42F5-A91A-C90B32B78EFF}|AmadeusTechnicalTestJuanMoreno.Tests\\AmadeusTechnicalTestJuanMoreno.Tests.csproj|c:\\users\\juan pablo moreno\\amadeus\\amadeustechnicaltestjuanmoreno\\amadeustechnicaltestjuanmoreno\\amadeustechnicaltestjuanmoreno.tests\\passengerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDEA90C-E794-42F5-A91A-C90B32B78EFF}|AmadeusTechnicalTestJuanMoreno.Tests\\AmadeusTechnicalTestJuanMoreno.Tests.csproj|solutionrelative:amadeustechnicaltestjuanmoreno.tests\\passengerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passengersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno.Tests\\passengersControllerTests.cs",
+              "RelativeDocumentMoniker": "AmadeusTechnicalTestJuanMoreno.Tests\\passengersControllerTests.cs",
+              "ToolTip": "C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno.Tests\\passengersControllerTests.cs",
+              "RelativeToolTip": "AmadeusTechnicalTestJuanMoreno.Tests\\passengersControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:42:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "passengersController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs",
+              "RelativeDocumentMoniker": "AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs",
+              "ToolTip": "C:\\Users\\Juan Pablo Moreno\\Amadeus\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs",
+              "RelativeToolTip": "AmadeusTechnicalTestJuanMoreno\\Controllers\\passengersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:27:56.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
